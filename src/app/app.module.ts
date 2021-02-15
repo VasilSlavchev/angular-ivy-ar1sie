@@ -5,6 +5,9 @@ import { FormsModule } from '@angular/forms';
 import { AppComponent } from './app.component';
 import { HelloComponent } from './hello.component';
 
+import {AccordionModule} from 'primeng/accordion';
+import {MenuItem} from 'primeng/api';
+
 @NgModule({
   imports:      [ BrowserModule, FormsModule ],
   declarations: [ AppComponent, HelloComponent ],
