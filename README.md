@@ -1,3 +1,3 @@
 # angular-prime
 
-https://stackblitz.com/angular-prime
+https://angular-prime-vs.stackblitz.com/
