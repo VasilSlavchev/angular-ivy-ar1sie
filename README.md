@@ -1,3 +1,3 @@
-# angular-ivy-ar1sie
+# angular-prime
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-ar1sie)
+https://stackblitz.com/angular-prime
